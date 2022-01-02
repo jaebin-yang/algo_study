@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 인구이동_16234 {
+public class BJ_인구이동_16234 {
 	static int N, L, R, days;
 	static Country[][] map;
 	static int[] dy = {0, 0, 1, -1}; // 동서남북
